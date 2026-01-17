@@ -1,3 +1,8 @@
+//  This is the solution of leetcode problem 83. Remove Duplicates from Sorted List
+// This solution aims to remove duplicate items from a sorted linked list. the approach involves traversing the list and checking for consecutive nodes with the same value. when a duplicate is found, it is removed by adjusting the next pointer of the current node to skip over the duplicate node. 
+// This process continues until the end of the list is reached, ensuring that all duplicates are removed and only unique values remain in the linked list. 
+// The time complexity of this solution is O(n), where n is the number of nodes in the linked list, as it requires a single pass through the list. The space complexity is O(1) since no additional data structures are used that grow with the input size.
+
 public class duplicateitem {
     private class Node {
         int data;
