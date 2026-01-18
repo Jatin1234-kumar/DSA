@@ -6,7 +6,6 @@
 // The time complexity of this solution is O(n) in the worst case, where n is the number of nodes in the linked list, as it may require traversing the entire list to reach the desired position. The space complexity is also O(n) due to the recursive call stack.
 
 
-
 class insrec {
     class Node {
         int data;
