@@ -1,3 +1,12 @@
+// THis is the solution of inserting a node at a given position using recursion in a linked list.
+// The approach involves defining a recursive function that takes the current node, the data to be inserted, and the position as parameters.
+// The base case for the recursion is when the position is zero, at which point a new node is created and inserted at the current position.
+// If the position is not zero, the function calls itself with the next node and decrements the position by one.
+// This continues until the base case is reached, effectively traversing the list recursively.
+// The time complexity of this solution is O(n) in the worst case, where n is the number of nodes in the linked list, as it may require traversing the entire list to reach the desired position. The space complexity is also O(n) due to the recursive call stack.
+
+
+
 class insrec {
     class Node {
         int data;
