@@ -40,6 +40,7 @@ public class findingstartingpointofcycle {
     }
 
     public void findStartingPoint() {
+        int pos = 0;
         Node fast = head;
         Node slow = head;
 
@@ -55,8 +56,9 @@ public class findingstartingpointofcycle {
         while (fast != slow){
             fast = fast.next;
             slow = slow.next;
+            pos++;
         }
-        System.out.println("Starting point of cycle is: " + fast.data);
+        System.out.println("Starting point of cycle is: " + fast.data + " at position: " + pos);
     }
 
     public static void main(String[] args) {
@@ -65,6 +67,7 @@ public class findingstartingpointofcycle {
         list.head.next = list.new Node(2);
         list.head.next.next = list.new Node(3);
         list.head.next.next.next = list.head.next;
+        list.lengthOfCycle();
         list.findStartingPoint();
     }
 }
