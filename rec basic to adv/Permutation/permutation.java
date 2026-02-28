@@ -1,6 +1,6 @@
 public class permutation {
     public static void main(String[] args) {
-        permute("", "abc");
+        permutation.permute("", "abc");
     }
 
     static void permute(String p,String up){
