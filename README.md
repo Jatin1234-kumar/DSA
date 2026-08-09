@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jatin1234-kumar/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin1234-kumar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Jatin1234-kumar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jatin1234-kumar/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jatin1234-kumar/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Jatin1234-kumar/DSA/tree/master/0901-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
