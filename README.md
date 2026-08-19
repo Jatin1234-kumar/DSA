@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Jatin1234-kumar/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Jatin1234-kumar/DSA/tree/master/0739-daily-temperatures) |
+| [0941-valid-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0941-valid-mountain-array) |
 ## Monotonic Stack
 |  |
 | ------- |
