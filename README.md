@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jatin1234-kumar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jatin1234-kumar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
