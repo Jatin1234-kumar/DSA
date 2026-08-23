@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin1234-kumar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Jatin1234-kumar/DSA/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Jatin1234-kumar/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0941-valid-mountain-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jatin1234-kumar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
