@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Jatin1234-kumar/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jatin1234-kumar/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/Jatin1234-kumar/DSA/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
