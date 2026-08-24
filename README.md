@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jatin1234-kumar/DSA/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Jatin1234-kumar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin1234-kumar/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 | [0503-next-greater-element-ii](https://github.com/Jatin1234-kumar/DSA/tree/master/0503-next-greater-element-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Jatin1234-kumar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0441-arranging-coins](https://github.com/Jatin1234-kumar/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jatin1234-kumar/DSA/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Jatin1234-kumar/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
