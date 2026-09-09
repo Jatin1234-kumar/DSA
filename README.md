@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin1234-kumar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jatin1234-kumar/DSA/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jatin1234-kumar/DSA/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
