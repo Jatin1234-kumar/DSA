@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jatin1234-kumar/DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jatin1234-kumar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Jatin1234-kumar/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jatin1234-kumar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Jatin1234-kumar/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
