@@ -5,8 +5,7 @@ class Solution {
         Node curr2 = head2;
         Node prev1 = null;
         Node prev2 = null;
-
-        // Empty list cases
+        
         if (head1 == null) {
             return head2;
         }
@@ -40,7 +39,6 @@ class Solution {
             }
         }
 
-        // Remaining nodes of list 2
         if (curr2 != null) {
             if (prev1 != null) {
                 prev1.next = curr2;
