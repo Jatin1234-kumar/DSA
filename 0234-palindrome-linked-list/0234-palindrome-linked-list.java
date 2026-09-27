@@ -17,16 +17,13 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-        // Find the middle
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        // Reverse the second half
         ListNode secondHalf = reverse(slow);
 
-        // Compare both halves
         ListNode firstHalf = head;
         ListNode temp = secondHalf;
 
