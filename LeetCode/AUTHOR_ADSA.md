@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 2 / 65 (3.1%)
+- **Completed:** 3 / 65 (4.6%)
 
 ---
 
@@ -36,7 +36,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  1.4: Reordering, Palindrome & Pa
 - [x] [Palindrome Linked List](./Java/Easy/234. Palindrome Linked List/)
-- [ ] Reorder List
+- [x] [Reorder List](./Java/Medium/143. Reorder List/)
 - [ ] Next Greater Node In Linked List
 - [ ] Double a Number Represented as a Linked List
 
