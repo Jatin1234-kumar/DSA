@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jatin1234-kumar/DSA/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/Jatin1234-kumar/DSA/tree/master/0242-valid-anagram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin1234-kumar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jatin1234-kumar/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Jatin1234-kumar/DSA/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jatin1234-kumar/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jatin1234-kumar/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Jatin1234-kumar/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
